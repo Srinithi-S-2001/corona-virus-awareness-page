@@ -1,5 +1,5 @@
 # corona-virus-awareness-page
-this is a web page on the imformation related to symptoms,treatment of corona virus 
+this is a web page on the information related to symptoms and treatment of corona virus 
 this is a small webpage related to the awareness on corona virus designed using html(basics)
 Reference:
 
